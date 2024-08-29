@@ -1,4 +1,4 @@
-# Cognifyz-Technologies-Project-
+# Cognifyz-Technologies-Project-Restaurant Data
 PYTHON PROJECT OF RESTAURANT DATA : 
 This project is to analyze the restaurant dataset to uncover insights about customer preferences, restaurant performance, service offerings, and geographical trends. The analysis will help identify key factors that contribute to customer satisfaction and business success, enabling data-driven decision-making.
 
